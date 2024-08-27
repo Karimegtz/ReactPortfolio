@@ -57,4 +57,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Links
 
 - [GitHub Repository](https://github.com/Karimegtz/NoteTaker)
-- [Live Portfolio](#)
+- [Live Portfolio](https://reactportfolio-579k.onrender.com)
