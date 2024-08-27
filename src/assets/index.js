@@ -1,5 +1,5 @@
-export { default as calculator } from './projects/coder.jpg';
-export { default as ledWall } from './projects/ledWall.jpeg';
-export { default as pastelPuzzels } from './projects/pastelPuzzels.png';
-export { default as runBuddy } from './projects/runBuddy.png';
-export { default as surfReport } from './projects/surfReport.jpg';
+export { default as blogBuilder } from './projects/blogBuilder.jpg';
+export { default as bookSearch} from './projects/bookSearch.jpg';
+export { default as codeRefactor } from './projects/codeRefactor.png';
+export { default as noteTaker } from './projects/noteTaker.png';
+export { default as textEditor } from './projects/textEditor.jpg';
