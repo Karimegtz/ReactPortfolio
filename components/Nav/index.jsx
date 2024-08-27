@@ -11,7 +11,7 @@ function Nav({ currentPage }) {
           className={`mx-5 ${currentPage === '/' && 'navActive'}`}
           key="about"
         >
-          <Link to="/">About me</Link>
+          <Link to="/">About Karime</Link>
         </li>
         {pages.map((Page) => (
           <li
